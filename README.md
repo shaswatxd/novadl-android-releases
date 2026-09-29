@@ -15,7 +15,7 @@
 
 ---
 
-[📥 **Download Latest APK (v1.0.313)**](https://github.com/shaswatxd/novadl-android-releases/releases/download/v1.0.313/app-release.apk) • [🌐 **Official Website**](https://novadl.vercel.app/) • [💻 **Windows Desktop Version**](https://github.com/shaswatxd/novadl-releases)
+[📥 **Download Latest APK (NovaDL.apk)**](https://github.com/shaswatxd/novadl-android-releases/releases/latest/download/NovaDL.apk) • [🌐 **Official Website**](https://novadl.vercel.app/) • [💻 **Windows Desktop Version**](https://github.com/shaswatxd/novadl-releases)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 | File | Target OS | Direct Download Link |
 | :--- | :--- | :--- |
-| **NovaDL Android APK** | Android 8.0+ (Oreo to Android 15) | [📱 **app-release.apk (v1.0.313)**](https://github.com/shaswatxd/novadl-android-releases/releases/download/v1.0.313/app-release.apk) |
+| **NovaDL Android APK** | Android 8.0+ (Oreo to Android 15) | [📱 **Download NovaDL.apk (Direct Asset)**](https://github.com/shaswatxd/novadl-android-releases/releases/latest/download/NovaDL.apk) |
 
 ---
 
